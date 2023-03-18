@@ -4,3 +4,7 @@ download url: https://www.kaggle.com/datasets/ananthu19/alzheimer-disease-and-he
 
 The first dataset is "Movies Dataset from Pirated Sites"
 download url: https://www.kaggle.com/datasets/arsalanrehman/movies-dataset-from-piracy-website
+
+
+unzip these files and edit the dataset path
+run data_exploratory_analysis_and_data_preprocessing.ipynb
